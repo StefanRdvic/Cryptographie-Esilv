@@ -2,8 +2,6 @@
 
 ## Stefan RADOVANOVIC - 21/10/2022
 
----
-
 ## Paradoxe des anniversaires
 
 Le paradoxe des anniversaires se base sur le principe des tiroirs. C’est-à-dire que l’on va chercher à partir de combien de personne nous pouvons avoir une probabilité de 50% que deux personne du groupe soit nés le même jours, ou que deux objets partagent le même tiroir.
