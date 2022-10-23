@@ -23,7 +23,7 @@ def anniv_non_commun(k, N):
     return probability
 ```
 
-![Graphe d’évolution de la probabilité de collision pour k entité selon N jours](Rendu%20cryptographie%20271d3d1032294f26a873ea7568b3cc26/myplot2.png)
+![Graphe d’évolution de la probabilité de collision pour k entité selon N jours](https://github.com/StefanRdvic/krypto/blob/master/myplot2.png)
 
 Graphe d’évolution de la probabilité de collision pour k entité selon N jours
 
@@ -69,7 +69,7 @@ def proof_of_work(A, D):
     return time.time() - start_time
 ```
 
-![Graphe de l’évolution de la complexité en temps de la résolution d’une preuve de travail](Rendu%20cryptographie%20271d3d1032294f26a873ea7568b3cc26/myplot.png)
+![Graphe de l’évolution de la complexité en temps de la résolution d’une preuve de travail](https://github.com/StefanRdvic/krypto/blob/master/myplot.png)
 
 Graphe de l’évolution de la complexité en temps de la résolution d’une preuve de travail
 
